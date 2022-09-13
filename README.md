@@ -2,7 +2,7 @@
 
 در این سؤال قرار است که یک زمان‌سنج ساده با React طراحی کنید. به این صورت که از لحظه load شدن زمان شروع به افزایش کند و با فشردن دکمه‌ی Reset Timer این زمان مجدداً صفر شود.
 
-![](https://git.kheyrati.space/quiz/simple-timer/-/blob/271d15404fe0b7bf7bf70c29f1960bd2873e7ba1/public/simple-timer.gif)
+![](/public/simple-timer.gif?raw=true)
 
 
 ## پروژه اولیه
